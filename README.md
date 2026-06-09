@@ -15,8 +15,7 @@ Passionate about building modern web and mobile applications, solving real-world
 * 💻 Skilled in Flutter, React, Java, C, and MySQL
 * 🚀 Passionate about Software Engineering and Problem Solving
 * 🌱 Currently expanding my knowledge through academic and personal projects
-* 🎯 Goal: Become a Professional Software Engineer
-* 📍 Based in Sri Lanka 🇱🇰
+* 🎯 Goal: Become a skilled IT professional
 * 📧 Email: [sasaridmani@gmail.com](mailto:sasaridmani@gmail.com)
 * 🤝 Open to Internship Opportunities and Collaboration
 
