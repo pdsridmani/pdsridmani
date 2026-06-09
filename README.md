@@ -1,20 +1,50 @@
-## Hi 👋, I'm P.D.S. Ridmani
+# Hi 👋, I'm P.D.S. Ridmani
 
-🎓 Software Engineering Undergraduate | 📱 Flutter Developer | 🌐 React Developer | 💻 Aspiring Software Engineer
+🎓 Software Engineering Undergraduate at NSBM Green University, Sri Lanka 🇱🇰
 
-Passionate about creating modern web and mobile applications while continuously learning new technologies and best practices in software development.
+📱 Flutter Developer | 🌐 React Developer | 💻 Aspiring Software Engineer
 
-<!--
-**pdsridmani/pdsridmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about building modern web and mobile applications, solving real-world problems, and continuously learning new technologies.
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 Software Engineering Undergraduate at NSBM Green University, Sri Lanka 🇱🇰
-- 📱 Passionate about Mobile and Web Application Development
-- 💻 Skilled in Flutter, React, Java, C, and MySQL
-- 🚀 Interested in Software Engineering, UI/UX Design, and Full-Stack Development
-- 🌱 Currently improving my skills through academic and personal projects
-- 🎯 Goal: Build innovative and user-friendly software solutions
-- 📧 Email: sasaridmani@gmail.com
-- 🤝 Open to Internship Opportunities and Collaboration
--->
+* 🎓 Software Engineering Undergraduate
+* 📱 Interested in Mobile and Web Application Development
+* 💻 Skilled in Flutter, React, Java, C, and MySQL
+* 🚀 Passionate about Software Engineering and Problem Solving
+* 🌱 Currently expanding my knowledge through academic and personal projects
+* 🎯 Goal: Become a Professional Software Engineer
+* 📍 Based in Sri Lanka 🇱🇰
+* 📧 Email: [sasaridmani@gmail.com](mailto:sasaridmani@gmail.com)
+* 🤝 Open to Internship Opportunities and Collaboration
+
+---
+
+## 🛠️ Skills & Technologies
+
+* Flutter
+* React
+* Java
+* C
+* MySQL
+* HTML
+* CSS
+* JavaScript
+* Git & GitHub
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdsridmani\&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdsridmani\&layout=compact)
+
+---
+
+## 📫 Contact Me
+
+📧 [sasaridmani@gmail.com](mailto:sasaridmani@gmail.com)
+
