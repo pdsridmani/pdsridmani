@@ -36,13 +36,6 @@ Passionate about building modern web and mobile applications, solving real-world
 
 ---
 
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pdsridmani\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pdsridmani\&layout=compact)
-
----
 
 ## 📫 Contact Me
 
