@@ -33,6 +33,8 @@ Passionate about building modern web and mobile applications, solving real-world
 * CSS
 * JavaScript
 * Git & GitHub
+* Figma
+
 
 ---
 
